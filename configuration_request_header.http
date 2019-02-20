@@ -1,0 +1,16 @@
+GET /maps/configuration HTTP/1.1
+Host: api.yellow.tech
+Authorization: #REMOVEDFORSECURITY
+Accept: */*
+Accept-Encoding: gzip;q=1.0, compress;q=0.5
+Accept-Language: en
+platform: ios
+X-Latitude: -23.596628888267958
+X-Accuracy: 65.0
+User-Agent: iOS/1.8.0
+Connection: keep-alive
+X-App-Version: 1.8.0
+X-Longitude: -46.67795430276748
+X-Location-Date: 2019-02-20T16:07:35.770-0300
+os-version: 12.1.4
+
